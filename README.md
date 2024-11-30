@@ -30,6 +30,7 @@ Several predictive models were evaluated using grid search for hyperparameter tu
 |Logistic Regression|0.6851|0.7113|
 |**Random Forest**|**0.7055**|**0.7534**|
 |AdaBoost|0.7039|0.7520|
+
 The **Random Forest** model was selected as the final model due to its superior AUC score.
 ### 4. Insights
 Feature importance analysis highlighted key factors influencing customer decisions, such as communication frequency, vehicle characteristics, and customer demographics. These findings suggest strategies for targeted offers and improved customer engagement.
