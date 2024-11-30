@@ -3,6 +3,7 @@
 **Course:** Machine Learning  
 **Instructor:** David Martens  
 **Team members:** Ting-Yun Chen, Yifan He, Salma Ahansal, Huiqiu Tang  
+**Programming Language:** Python  
 
 *This project cannot be shared publicly due to a confidentiality agreement. If you have any questions about my work or contributions, please feel free to contact me directly.*
 
