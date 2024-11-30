@@ -1,8 +1,10 @@
 # AXA Data Science Challenge
 
-**Course:** Machine Learning
-**Instructor:** David Martens
-**Team members:** Ting-Yun Chen, Yifan He, Salma Ahansal, Huiqiu Tang
+**Course:** Machine Learning  
+**Instructor:** David Martens  
+**Team members:** Ting-Yun Chen, Yifan He, Salma Ahansal, Huiqiu Tang  
+
+*This project cannot be shared publicly due to a confidentiality agreement. If you have any questions about my work or contributions, please feel free to contact me directly.*
 
 ---
 
@@ -28,7 +30,7 @@ Several predictive models were evaluated using grid search for hyperparameter tu
 |Decision Tree|0.6946|0.7365|
 |SVM|0.6733|0.7034|
 |Logistic Regression|0.6851|0.7113|
-|**Random Forest**|**0.7055**|**0.7534**|
+|**Random Forest**|0.7055|**0.7534**|
 |AdaBoost|0.7039|0.7520|
 
 The **Random Forest** model was selected as the final model due to its superior AUC score.
@@ -39,5 +41,3 @@ The final predictions were generated using the trained model and stored for subm
 
 ## Conclusion
 This project successfully developed a robust predictive framework for assessing insurance offer acceptance. The insights provided serve as a foundation for AXA Belgium to optimize customer interactions and improve conversion rates.
-
-*This project cannot be shared publicly due to a confidentiality agreement. If you have any questions about my work or contributions, please feel free to contact me directly.*
